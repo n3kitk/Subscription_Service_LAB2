@@ -1,0 +1,6 @@
+@Subscription_Service_HostAddress = http://localhost:5211
+
+GET {{Subscription_Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
